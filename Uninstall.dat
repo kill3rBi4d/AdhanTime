@@ -1,0 +1,1985 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"  : "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\",
+      "ApplicationVersion": "0.001.10",
+      "ApplicationName"   : "Al-Waqt Reminder"
+    },
+  "Folders"           : [
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\server\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\management\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\limited\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\unlimited\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\win32\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\win32\\bridge\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.compiler\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.datatransfer\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.instrument\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.logging\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management.rmi\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.naming\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.net.http\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.prefs\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.rmi\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.scripting\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.se\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.jgss\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.sasl\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.smartcardio\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql.rowset\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.transaction.xa\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml.crypto\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.accessibility\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.aot\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.attach\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.charsets\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.compiler\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.cryptoki\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.ec\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.mscapi\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.dynalink\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.editpad\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.hotspot.agent\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.httpserver\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.foreign\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.vector\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.ed\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.jvmstat\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.le\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.opt\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.ci\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler.management\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jartool\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.javadoc\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jcmd\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jconsole\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdeps\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdi\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdwp.agent\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jfr\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jlink\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jpackage\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jshell\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jsobject\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jstatd\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.localedata\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.agent\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.jfr\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.dns\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.rmi\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.net\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.nio.mapmode\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.sctp\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.auth\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.jgss\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported.desktop\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.xml.dom\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.zipfs\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\jfr\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\security\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\icons\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\media\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\media\\notification\\"
+      },
+      {
+        "Path": "C:\\Users\\aliya\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Hikma Tech Groups\\Al-Waqt Reminder\\"
+      }
+    ],
+  "Files"             : [
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\Uninstall.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\Al-Waqt.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\ICO.ico"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-console-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-console-l1-2-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-datetime-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-debug-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-file-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-file-l1-2-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-file-l2-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-handle-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-heap-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-interlocked-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-localization-l1-2-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-memory-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-processthreads-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-processthreads-l1-1-1.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-profile-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-string-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-synch-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-synch-l1-2-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-timezone-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-core-util-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-conio-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-convert-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-environment-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-heap-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-locale-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-math-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-multibyte-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-private-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-process-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-runtime-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-stdio-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-string-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-time-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\api-ms-win-crt-utility-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\attach.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\awt.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\dt_shmem.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\dt_socket.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\fontmanager.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\freetype.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\harfbuzz.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\instrument.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\j2gss.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\j2pcsc.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\j2pkcs11.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jaas.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jabswitch.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jaccessinspector.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jaccesswalker.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jaotc.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jar.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jarsigner.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\java.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\java.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\javaaccessbridge.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\javac.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\javadoc.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\javajpeg.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\javap.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\javaw.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jawt.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jcmd.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jconsole.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jdb.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jdeprscan.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jdeps.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jdwp.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jfr.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jhsdb.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jimage.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jimage.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jinfo.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jli.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jlink.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jmap.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jmod.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jpackage.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jpackage.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jps.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jrunscript.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jshell.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jsound.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jstack.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jstat.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\jstatd.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\keytool.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\kinit.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\klist.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\ktab.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\lcms.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\le.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\management.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\management_agent.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\management_ext.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\mlib_image.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\msvcp140.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\net.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\nio.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\prefs.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\rmi.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\rmid.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\rmiregistry.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\saproc.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\serialver.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\server\\classes.jsa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\server\\classes_nocoops.jsa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\server\\jvm.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\splashscreen.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\sspi_bridge.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\sunmscapi.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\ucrtbase.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\vcruntime140.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\verify.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\w2k_lsa_auth.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\windowsaccessbridge-64.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\bin\\zip.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\logging.properties"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\management\\jmxremote.access"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\management\\jmxremote.password.template"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\management\\management.properties"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\net.properties"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\java.policy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\java.security"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\limited\\default_local.policy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\limited\\default_US_export.policy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\limited\\exempt_local.policy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\README.txt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\unlimited\\default_local.policy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\security\\policy\\unlimited\\default_US_export.policy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\conf\\sound.properties"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\classfile_constants.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\jawt.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\jdwpTransport.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\jni.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\jvmti.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\jvmticmlr.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\win32\\bridge\\AccessBridgeCallbacks.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\win32\\bridge\\AccessBridgeCalls.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\win32\\bridge\\AccessBridgePackages.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\win32\\jawt_md.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\include\\win32\\jni_md.h"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.base.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.compiler.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.datatransfer.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.desktop.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.instrument.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.logging.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.management.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.management.rmi.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.naming.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.net.http.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.prefs.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.rmi.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.scripting.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.se.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.security.jgss.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.security.sasl.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.smartcardio.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.sql.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.sql.rowset.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.transaction.xa.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.xml.crypto.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\java.xml.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.accessibility.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.aot.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.attach.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.charsets.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.compiler.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.crypto.cryptoki.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.crypto.ec.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.crypto.mscapi.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.dynalink.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.editpad.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.hotspot.agent.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.httpserver.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.incubator.foreign.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.incubator.vector.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.internal.ed.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.internal.jvmstat.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.internal.le.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.internal.opt.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.internal.vm.ci.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.internal.vm.compiler.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.internal.vm.compiler.management.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jartool.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.javadoc.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jcmd.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jconsole.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jdeps.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jdi.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jdwp.agent.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jfr.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jlink.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jpackage.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jshell.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jsobject.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.jstatd.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.localedata.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.management.agent.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.management.jfr.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.management.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.naming.dns.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.naming.rmi.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.net.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.nio.mapmode.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.sctp.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.security.auth.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.security.jgss.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.unsupported.desktop.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.unsupported.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.xml.dom.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\jmods\\jdk.zipfs.jmod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\aes.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\asm.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\c-libutl.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\cldr.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\icu.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\public_suffix.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\unicode.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.base\\zlib.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.compiler\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.compiler\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.compiler\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.datatransfer\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.datatransfer\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.datatransfer\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\colorimaging.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\freetype.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\giflib.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\harfbuzz.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\jpeg.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\lcms.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\libpng.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.desktop\\mesa3d.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.instrument\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.instrument\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.instrument\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.logging\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.logging\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.logging\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management.rmi\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management.rmi\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.management.rmi\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.naming\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.naming\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.naming\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.net.http\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.net.http\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.net.http\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.prefs\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.prefs\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.prefs\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.rmi\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.rmi\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.rmi\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.scripting\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.scripting\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.scripting\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.se\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.se\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.se\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.jgss\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.jgss\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.jgss\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.sasl\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.sasl\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.security.sasl\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.smartcardio\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.smartcardio\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.smartcardio\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql.rowset\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql.rowset\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.sql.rowset\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.transaction.xa\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.transaction.xa\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.transaction.xa\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\bcel.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\dom.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\jcup.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\xalan.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml\\xerces.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml.crypto\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml.crypto\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml.crypto\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\java.xml.crypto\\santuario.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.accessibility\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.accessibility\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.accessibility\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.aot\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.aot\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.aot\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.attach\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.attach\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.attach\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.charsets\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.charsets\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.charsets\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.compiler\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.compiler\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.compiler\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.cryptoki\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.cryptoki\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.cryptoki\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.cryptoki\\pkcs11cryptotoken.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.cryptoki\\pkcs11wrapper.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.ec\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.ec\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.ec\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.mscapi\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.mscapi\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.crypto.mscapi\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.dynalink\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.dynalink\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.dynalink\\dynalink.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.dynalink\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.editpad\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.editpad\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.editpad\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.hotspot.agent\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.hotspot.agent\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.hotspot.agent\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.httpserver\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.httpserver\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.httpserver\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.foreign\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.foreign\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.foreign\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.vector\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.vector\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.incubator.vector\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.ed\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.ed\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.ed\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.jvmstat\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.jvmstat\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.jvmstat\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.le\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.le\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.le\\jline.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.le\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.opt\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.opt\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.opt\\jopt-simple.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.opt\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.ci\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.ci\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.ci\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler.management\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler.management\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.internal.vm.compiler.management\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jartool\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jartool\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jartool\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.javadoc\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.javadoc\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.javadoc\\jquery.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.javadoc\\jqueryUI.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.javadoc\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jcmd\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jcmd\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jcmd\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jconsole\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jconsole\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jconsole\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdeps\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdeps\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdeps\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdi\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdi\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdi\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdwp.agent\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdwp.agent\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jdwp.agent\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jfr\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jfr\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jfr\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jlink\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jlink\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jlink\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jpackage\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jpackage\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jpackage\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jshell\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jshell\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jshell\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jsobject\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jsobject\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jsobject\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jstatd\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jstatd\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.jstatd\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.localedata\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.localedata\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.localedata\\cldr.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.localedata\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.localedata\\thaidict.md"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.agent\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.agent\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.agent\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.jfr\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.jfr\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.management.jfr\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.dns\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.dns\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.dns\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.rmi\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.rmi\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.naming.rmi\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.net\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.net\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.net\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.nio.mapmode\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.nio.mapmode\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.nio.mapmode\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.sctp\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.sctp\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.sctp\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.auth\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.auth\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.auth\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.jgss\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.jgss\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.security.jgss\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported.desktop\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported.desktop\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.unsupported.desktop\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.xml.dom\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.xml.dom\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.xml.dom\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.zipfs\\ADDITIONAL_LICENSE_INFO"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.zipfs\\ASSEMBLY_EXCEPTION"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\legal\\jdk.zipfs\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\classlist"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\ct.sym"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\fontconfig.bfc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\fontconfig.properties.src"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\jawt.lib"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\jfr\\default.jfc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\jfr\\profile.jfc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\jrt-fs.jar"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\jvm.cfg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\jvm.lib"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\modules"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\psfont.properties.ja"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\psfontj2d.properties"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\security\\blacklisted.certs"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\security\\cacerts"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\security\\default.policy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\security\\public_suffix_list.dat"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\src.zip"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\tzdb.dat"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\lib\\tzmappings"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\release"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\library\\version.txt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\AW-Condition.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\DATA_1.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\DATA_2.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\DATA_3.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\DATA_4.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\DATA_5.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\DATA_6.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\data\\DATA_7.text"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\aboutCP.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bacTray.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\clocon1.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\mosq1.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\mosq2.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\mosq3.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\mosq4.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\mosq5.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\mosq6.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bg\\mosq7.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\bt.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\clocon001.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\close.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\closeBtn.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\closeBtn0.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\closeBtn01.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\cp001.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\edit001.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\exit3.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\facebook.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\github.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\indicateBG.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\info.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\infoLogo.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\instagram.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\leftRibbon.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\linkedin.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\logo0.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\mute.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\noti.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\noti1.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\noticon.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\resume.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\settingIcon.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\settings.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\stop.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\title.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\topBar.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\images\\topHbar.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\media\\adhan_minshary.wav"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\media\\notification\\interface.wav"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Hikma Tech Groups\\Al-Waqt Reminder\\resources\\media\\notification\\interface_reverse.wav"
+      },
+      {
+        "Path": "C:\\Users\\aliya\\OneDrive\\Desktop\\Al-Waqt Reminder.lnk"
+      },
+      {
+        "Path": "C:\\Users\\aliya\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Hikma Tech Groups\\Al-Waqt Reminder\\Al-Waqt Reminder.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Al-Waqt Reminder\\"
+      }
+    ]
+}
