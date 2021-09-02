@@ -6,7 +6,7 @@ JDK 6.
 In order you get issues from running it make sure to inform or contact the developer via <code style="background-color:orange">• aivannorying@gmail.com</code></br></br>
 <strong>SPECS</strong></br>
 Version : <code>0.001.10</code></br>
-Build : <code>Beta build</code></br>
+Build : <code>Beta</code></br>
 Compatible devices : <code>Window 7/8/10, Linux, MacOs</code></br>
 License : <code>Free</code></br>
 Author : <code>Yasin Vandry</code></br>
