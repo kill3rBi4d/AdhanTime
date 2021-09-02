@@ -1,5 +1,5 @@
 <img src="https://github.com/kill3rBi4d/AdhanTime/blob/main/Screenshots/htg.PNG" />
-<code>• Reminder Version:0.001.10 Beta</code></br></br>
+<code>• Al-Waqt Reminder Version:0.001.10 Beta</code></br></br>
 <strong>USAGE</strong></br>
 To make it work on your pc or laptop make sure to install the latest version of JDK or atleast
 JDK 6.
